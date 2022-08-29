@@ -39,7 +39,7 @@ function thanks() {
    
     document.querySelector(".main-div").innerHTML =
         `<div>
-        <img class="img-thanks" src="file:///E:/projects/interactive-rating-component-main/images/illustration-thank-you.svg" alt="star-logo">
+        <img class="img-thanks" src="/images/illustration-thank-you.svg" alt="star-logo">
         <p class="parag-select">You selected ${btn} out of 5</p>
         <h1 class="header-one">Thank You!</h1>
         <p class="parag-one">We apprciate you taking
